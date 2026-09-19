@@ -55,14 +55,13 @@
 </p>
 
 ---
-
+<!--
 ### GitHub Stats (opsional)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexanderAbel&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
-<!--
   Ganti "USERNAME_KAMU" dengan username GitHub kamu.
   Referensi tool: https://github.com/anuraghazra/github-readme-stats
 -->
