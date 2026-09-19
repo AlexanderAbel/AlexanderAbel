@@ -14,7 +14,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Saya+Abel&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
 </p>
 
-<h1 align="center">[Nama Kamu]</h1>
+<h1 align="center">Alexander Abel Maha</h1>
 <p align="center">[Role/Status singkat, contoh: "Peserta Workshop Git & GitHub | Junior Frontend Enthusiast"]</p>
 
 ---
